@@ -1,0 +1,13 @@
+/svg
+/png
+/notebooks
+/models
+/data
+/CHR_IR
+
+*.xlsx
+*.emf
+*.png
+*.svg
+*.txt
+
